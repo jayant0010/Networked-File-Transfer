@@ -1,4 +1,4 @@
-# Project 3 - Computer Networks
+# Text and Snap - Computer Networks
 
 Chat application with file transfer capability.
 
